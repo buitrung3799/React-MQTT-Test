@@ -19,7 +19,7 @@ const Dashboard: React.FC = () => {
     device_name: "",
     sensor_name: "Temperature",
     value: 0,
-    unit: "*C",
+    unit: "℃",
   })
 
   const record = {
@@ -29,7 +29,7 @@ const Dashboard: React.FC = () => {
       device_name: "Tank",
       sensor_name: "Temperature",
       value: Math.round(Math.random() * 100),
-      unit: "*C",
+      unit: "℃",
     }),
   }
   // hook
