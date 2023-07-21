@@ -1,0 +1,9 @@
+:global .content-container {
+  width: 100%;
+  height: calc(100vh - 135px);
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding-top: 15px;
+  padding-left: 50px;
+  background-color: #e4e5e7;
+}

@@ -1,0 +1,8 @@
+:global .header-container {
+  display: flex;
+  align-items: center;
+}
+:global .app-logo {
+  color: white;
+  margin-right: 15px;
+}
