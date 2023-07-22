@@ -1,9 +1,11 @@
 # REACT MQTT TEST APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the MQTTJS and TS template.
+![React MQTT screnshot](screenshot.png)
 
 ## How to install
 
+- Make sure you ara using Node version > 14
 - Using 'yarn' command to install all dependencies
 - Using 'yarn start' to start app
 
